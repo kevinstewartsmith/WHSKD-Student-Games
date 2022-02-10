@@ -14,6 +14,7 @@ body {
 
 .instructions {
     padding-left: 10px;
+    color: black;
 }
 
 section {
@@ -73,7 +74,7 @@ h3 {
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin:  5%;
   color: #fcaf18;
 }
