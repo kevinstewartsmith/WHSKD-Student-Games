@@ -167,7 +167,7 @@ function flipCard(word) {
 }
 
 function resetGrid() {
-  for (var i = 0; i < wordArray.length - 1;  i++) {
+  for (var i = 0; i < wordArray.length;  i++) {
     if (words[wordArray[i]] == false) {
       flipCard(wordArray[i]);
     }
